@@ -1,0 +1,11 @@
+{
+    "name": "Friendly_Hoarding_Bug",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/OzzyElvis1/Friendly-Hoarding-Bug-LC",
+    "description": "I made this mod that makes the hoarding bug friendly. It completely removes the Angry-State so even if u steal his item it doesnt get mad.
+
+To install it you need to put the "FriendlyBug.dll" in the BepInEx plugin folder.",
+    "dependencies": [
+        "BepInEx 5.4.21.0"
+    ]
+}
